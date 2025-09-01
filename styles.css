@@ -6,7 +6,7 @@
 
 body {
     font-family: 'Microsoft JhengHei', 'PingFang TC', 'Helvetica Neue', Arial, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #707070 0%, #979797 100%);
     min-height: 100vh;
     color: #333;
 }
@@ -58,7 +58,7 @@ header h1 {
 
 #searchBtn {
     padding: 15px 25px;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #3e3f42 0%, #5e5c5f 100%);
     color: white;
     border: none;
     border-radius: 25px;
@@ -161,7 +161,7 @@ header h1 {
 }
 
 .reward-rate {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background: linear-gradient(135deg, #c78bc4 0%, #3abe50 100%);
     color: white;
     padding: 8px 15px;
     border-radius: 20px;
